@@ -1,6 +1,6 @@
 # 🚀 Vinfinity7 - Discover Open Source Fun
 
-![Vinfinity7]([https://github.com/vinfinity7](https://avatars.githubusercontent.com/u/122719607?v=4))
+Vinfinity7(https://github.com/vinfinity7)
 
 **Hey there!** 👋
 
