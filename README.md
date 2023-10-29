@@ -1,6 +1,6 @@
 # 🚀 Vinfinity7 - Discover Open Source Fun
 
-Vinfinity7(https://github.com/vinfinity7)
+[Vinfinity7](https://github.com/vinfinity7)
 
 **Hey there!** 👋
 
