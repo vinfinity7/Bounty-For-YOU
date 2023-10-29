@@ -1,10 +1,10 @@
-# 🚀 Vinfinity7 - Discover Open Source Fun
+# 🚀 vinfinity7 - Discover Open Source Fun
 
-[Vinfinity7](https://github.com/vinfinity7)
+[vinfinity7](https://github.com/vinfinity7)
 
 **Hey there!** 👋
 
-I'm Saksham Misra, also known as Vinfinity7. As a student and developer from the colorful tapestry of India, I'm on an endless journey of coding adventures. I dive headfirst into the thrilling world of technology, creating digital magic with Next.js, HTML, CSS, JavaScript, React, C++, Three.js, and Git.
+I'm Saksham Misra, also known as vinfinity7. As a student and developer from the colorful tapestry of India, I'm on an endless journey of coding adventures. I dive headfirst into the thrilling world of technology, creating digital magic with Next.js, HTML, CSS, JavaScript, React, C++, Three.js, and Git.
 
 ## 🌟 What Drives Me?
 
