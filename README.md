@@ -8,7 +8,7 @@ I'm Saksham Misra, also known as vinfinity7. As a student and developer from the
 
 ## 🌟 What Drives Me?
 
-I'm a curious soul, always eager to explore and learn. When it comes to programming, I'm like a kid in a candy store, using these tools as my magic wand to craft digital wonders.
+I'm that guy, always eager to explore and learn. When it comes to programming, I'm like a kid at a drug store, using these tools as my magic wand to craft digital wonders.
 
 ## 🌐 Embracing Open Source Fun
 
