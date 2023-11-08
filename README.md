@@ -6,7 +6,7 @@
 
 **Hey there!** 👋
 
-I'm Saksham Misra, also known as vinfinity7. As a student and developer from the colorful tapestry of India, I'm on an endless journey of coding adventures. I dive headfirst into the thrilling world of technology, creating digital magic with Next.js, HTML, CSS, JavaScript, React, C++, Three.js, and Git.
+I'm Saksham Misra, aka vinfinity7. As a student and developer from the colorful tapestry of India, I'm on an endless journey of coding adventures. I dive headfirst into the thrilling world of technology, creating digital magic with Next.js, HTML, CSS, JavaScript, React, C++, Three.js, and Git.
 
 ## 🌟 What Drives Me?
 
