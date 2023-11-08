@@ -38,9 +38,7 @@ Do you know of more open source organizations that are all about the fun and rew
 
 | Name                 | Description          |
 |----------------------|----------------------|
-| [Chimoney](https://github.com/Chimoney/chimoney-community-projects) | A place where they shower you with $25 upon each merged PR! 💰💸|
-| [Organization 2](#) | Description of Org 2 |
-| [Organization 3](#) | Description of Org 3 |
-| [Organization 4](#) | Description of Org 4 |
+| [Chimoney](https://github.com/Chimoney/chimoney-community-projects) | An org where they shower you with $25 upon each merged PR! 💰💸|
+| [cal.com](https://github.com/calcom/cal.com) | Hey there, look for the `bounty` tag under the Issues section and help us out to score some 💰 cash fast! 💪 |
 
 **Happy Coding!** 🚀🌈👨‍💻
