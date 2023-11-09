@@ -40,7 +40,7 @@ Do you know of more open source organizations that are all about the fun and rew
 |----------------------|----------------------|
 | [Chimoney](https://github.com/Chimoney/chimoney-community-projects) | An org where they shower you with $25 upon each merged PR! 💰💸|
 | [cal.com](https://github.com/calcom/cal.com) | Hey there, look for the `bounty` tag under the Issues section and help yourselves out to score some 💰 cash fast! 💪 |
-| [tromp](https://github.com/tromp/cuckoo) | Are you intelligent 🧠 enough to crack the bounty ⏰, read the README.md 📘|
+| [cuckoo](https://github.com/tromp/cuckoo#readme) | Are you intelligent 🧠 enough to crack the bounty ⏰, read the README.md 📘|
 
 
 **Happy Coding!** 🚀🌈👨‍💻
