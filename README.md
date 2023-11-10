@@ -14,7 +14,7 @@ I'm that guy, always eager to explore and learn. When it comes to programming, I
 
 ## 🌐 Embracing Open Source Fun
 
-I'm here to introduce you to open source organizations that make coding exciting. This isn't about corporate jargon; it's about the joy of coding, teamwork, and a sprinkle of whimsy.
+I'm here to introduce you to open source organizations that make coding exciting. This isn't about corporate jargon; it's about the joy of coding, teamwork, and a sprinkle of whimsy (not whiskey xD).
 
 ## 🪄 The Magic of Open Source
 
